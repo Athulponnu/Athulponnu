@@ -6,8 +6,11 @@
 
 <br />
 
-I'm a **CSE student specializing in AI/ML**, passionate about **Machine Learning, Embedded Systems, and Web Development** 🇮🇳
-
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4500&pause=1000&color=6A9AED&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Athul+Raj_K_K;Python+Developer;Machine+Learning;Designer)](https://git.io/typing-svg)
+  
+</div>
 **About Me**
 
 - 💼 Interned at **KELTRON** and **Qono**, working on Embedded & AI projects  
