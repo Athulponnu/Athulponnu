@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Athulponnu">
-    <img width="80%" alt="Hello, I'm Athul! I build AI & IoT projects" src="./assets/gh-readme-header.gif" />
+    <img width="100%" alt="Hello, I'm Athul! I build AI & IoT projects" src="./assets/gh-readme-header.gif" />
   </a>
 </p>
 
