@@ -70,9 +70,9 @@
 
 ### 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/athul-raj-k-k-4b1903269"><img align="left" alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" /></a>
-<a href="mailto:athul0770@gmail.com"><img align="left" alt="Email" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/gmail.svg" /></a>
-<a href="https://twitter.com/Athulponnu"><img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/athul-raj-k-k-4b1903269)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:athul0770@gmail.com)
+
 
 <br />
 <br />
