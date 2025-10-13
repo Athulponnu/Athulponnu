@@ -11,22 +11,24 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4500&pause=1000&color=6A9AED&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Athul+Raj_K_K;Python+Developer;Machine+Learning;Designer)](https://git.io/typing-svg)
   
 </div>
-<p align="center">
 
-<img src="./assets/info2.gif" alt="About Me" width="200px" height="200px">
-<p align="center">
-
-- Interned as **AI/ML Intern at ARMY AI Incubation Center**, working on Embedded & AI projects  
-- Built AI Drone Systems, Theft Detection System, Portfolio Website, and Handwritten Digit Recognition projects  
-- I love building **AI-powered solutions** and exploring **interactive IoT systems**  
-- Ask me anything about Python, ML, Embedded Systems, or Web Development [here](https://github.com/Athulponnu)
+<table>
+  <tr>
+    <td>
+      <img src="./assets/info2.gif" alt="About Me" width="150px" height="150px" style="border-radius: 15px; border: 3px solid #4CAF50;">
+    </td>
+    <td style="padding-left: 15px; vertical-align: top;">
+      <p><b>Interned as AI/ML Intern at ARMY AI Incubation Center</b>, working on Embedded & AI projects.</p>
+      <p>Built AI Drone Systems, Theft Detection System, Portfolio Website, and Handwritten Digit Recognition projects.</p>
+      <p>I love building <b>AI-powered solutions</b> and exploring <b>interactive IoT systems</b>.</p>
+      <p>Ask me anything about Python, ML, Embedded Systems, or Web Development <a href="https://github.com/Athulponnu">here</a>.</p>
+    </td>
+  </tr>
+</table>
 
 </p>
 </p>
-
-
 </p>
-
 
 ---
 
@@ -37,12 +39,10 @@
 
 <code><img height="50" width="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" width="50" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" width="50" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" width="50" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" width="50" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="50" width="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" width="50" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" width="50" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch Logo"></code>
 
 ---
 
@@ -66,10 +66,7 @@
 </a>
 
 ---
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?usernaAthulponnu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athulponnun&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=6" />
-</div>
+
 
 ### 📫 Connect with Me
 
