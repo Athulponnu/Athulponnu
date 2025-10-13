@@ -11,12 +11,23 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4500&pause=1000&color=6A9AED&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Athul+Raj_K_K;Python+Developer;Machine+Learning;Designer)](https://git.io/typing-svg)
   
 </div>
-**About Me**
+<p align="center">
 
-- 💼 Interned at **KELTRON** and **Qono**, working on Embedded & AI projects  
-- 🤖 Built AI Drone Systems, Theft Detection System, Portfolio Website, and Handwritten Digit Recognition projects  
-- ❤️ I love building **AI-powered solutions** and exploring **interactive IoT systems**  
-- 💬 Ask me anything about Python, ML, Embedded Systems, or Web Development [here](https://github.com/Athulponnu)
+### <font color="violet">About Me</font>
+
+<p align="center">
+
+- Interned as **AI/ML Intern at ARMY AI Incubation Center**, working on Embedded & AI projects  
+- Built AI Drone Systems, Theft Detection System, Portfolio Website, and Handwritten Digit Recognition projects  
+- I love building **AI-powered solutions** and exploring **interactive IoT systems**  
+- Ask me anything about Python, ML, Embedded Systems, or Web Development [here](https://github.com/Athulponnu)
+
+</p>
+</p>
+
+
+</p>
+
 
 ---
 
