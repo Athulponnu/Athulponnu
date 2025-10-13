@@ -39,14 +39,14 @@ I'm a **CSE student specializing in AI/ML**, passionate about **Machine Learning
 
 ### 🌟 Featured Projects
 
-<a href="https://github.com/Athulponnu/Theft-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athulponnu&repo=Theft-Detection&theme=dark" />
+<a href="https://github.com/Athulponnu/Theft_Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athulponnu&repo=Theft_Detection&theme=dark" />
 </a>
-<a href="https://github.com/Athulponnu/AI-Drone-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athulponnu&repo=AI-Drone-System&theme=dark" />
+<a href="https://github.com/Athulponnu/Athulponnu-digit_recognizer_With_UI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athulponnu&repo=Athulponnu-digit_recognizer_With_UI&theme=dark" />
 </a>
-<a href="https://github.com/Athulponnu/Portfolio-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athulponnu&repo=Portfolio-Website&theme=dark" />
+<a href="https://github.com/Athulponnu/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athulponnu&repo=Portfolio&theme=dark" />
 </a>
 
 ---
