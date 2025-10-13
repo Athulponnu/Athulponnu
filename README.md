@@ -13,8 +13,7 @@
 </div>
 <p align="center">
 
-### <font color="violet">About Me</font>
-
+<img src="./assets/info2.gif" alt="About Me" width="200px" height="200px">
 <p align="center">
 
 - Interned as **AI/ML Intern at ARMY AI Incubation Center**, working on Embedded & AI projects  
