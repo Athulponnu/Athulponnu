@@ -9,6 +9,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4500&pause=1000&color=A855F7&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Athul+Raj+K+K;Python+Developer;Machine+Learning+Engineer;AI+%26+IoT+Builder;Designer)](https://git.io/typing-svg)
 
 </div>
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ---
 
