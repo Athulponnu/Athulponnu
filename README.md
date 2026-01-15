@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Athulponnu">
-    
-  </a>
+  <a href="https://github.com/Athulponnu"></a>
 </p>
 
 <br />
@@ -27,56 +25,132 @@
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Programming Languages
-<p align="center">
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🎨 Frontend
-<p align="center">
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" />
+      <br><sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+      <br><sub><b>React (TSX)</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### ⚙️ Backend & APIs
-<p align="center">
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" />
+      <br><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
+      <br><sub><b>Node.js</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🤖 AI / Machine Learning
-<p align="center">
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" /></code>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
+      <br><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" />
+      <br><sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" />
+      <br><sub><b>OpenCV</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🗄️ Databases & Tools
-<p align="center">
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+      <br><sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Athulponnu/Theft_Detection">
-    <img src="https://github-readme-stats-eight-puce.vercel.app/api/pin/?username=Athulponnu&repo=Theft_Detection&theme=midnight-purple" />
+  <a href="https://github.com/Athulponnu/Family-Tree">
+    <img
+      src="https://github-readme-stats-eight-puce.vercel.app/api/pin/?username=Athulponnu&repo=Family-Tree&theme=midnight-purple&hide_border=true"
+      width="400"
+    />
   </a>
-  <a href="https://github.com/Athulponnu/Athulponnu-digit_recognizer_With_UI">
-    <img src="https://github-readme-stats-eight-puce.vercel.app/api/pin/?username=Athulponnu&repo=Athulponnu-digit_recognizer_With_UI&theme=midnight-purple" />
+  <a href="https://github.com/Athulponnu/Theft_Detection">
+    <img
+      src="https://github-readme-stats-eight-puce.vercel.app/api/pin/?username=Athulponnu&repo=Theft_Detection&theme=midnight-purple&hide_border=true"
+      width="400"
+    />
   </a>
   <a href="https://github.com/Athulponnu/Portfolio">
-    <img src="https://github-readme-stats-eight-puce.vercel.app/api/pin/?username=Athulponnu&repo=Portfolio&theme=midnight-purple" />
+    <img
+      src="https://github-readme-stats-eight-puce.vercel.app/api/pin/?username=Athulponnu&repo=Portfolio&theme=midnight-purple&hide_border=true"
+      width="400"
+    />
   </a>
 </p>
+
 
 ---
 
