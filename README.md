@@ -98,20 +98,6 @@ No activity tracked
 </p>
 ---
 
-## 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/Athulponnu/Family-Tree">
-    <img src="https://github-readme-stats-eight-puce.vercel.app/api/pin/?username=Athulponnu&repo=Family-Tree&theme=midnight-purple&hide_border=true" width="400"/>
-  </a>
-  <a href="https://github.com/Athulponnu/Theft_Detection">
-    <img src="https://github-readme-stats-eight-puce.vercel.app/api/pin/?username=Athulponnu&repo=Theft_Detection&theme=midnight-purple&hide_border=true" width="400"/>
-  </a>
-  <a href="https://github.com/Athulponnu/Portfolio">
-    <img src="https://github-readme-stats-eight-puce.vercel.app/api/pin/?username=Athulponnu&repo=Portfolio&theme=midnight-purple&hide_border=true" width="400"/>
-  </a>
-</p>
-
-
 ---
 
 ## 📫 Connect with Me
