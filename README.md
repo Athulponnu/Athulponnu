@@ -27,9 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2026 - To: 20 June 2026
+From: 14 June 2026 - To: 21 June 2026
 
-Python   32 mins               █████████████████████████   100.00 %
+Python   1 hr 16 mins          █████████████████████████   99.92 %
+Pawn     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
